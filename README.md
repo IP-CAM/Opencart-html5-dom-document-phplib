@@ -1,7 +1,7 @@
 # HTML5DOMDocument
 
 ## Description
-**HTML5DOMDocument** is an OpenCart auxiliary module that adds [HTML5 parser for PHP](https://github.com/ivopetkov/html5-dom-document-php) library.  
+**HTML5DOMDocument** is an OpenCart auxiliary module that adds an [HTML5 parser for PHP](https://github.com/ivopetkov/html5-dom-document-php) to the vendor library.  
 Compatible with OpenCart 3.x versions.
 
 ## License
